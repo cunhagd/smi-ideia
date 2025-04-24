@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+selenium
+psycopg2
+psycopg2-binary
