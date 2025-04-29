@@ -52,7 +52,7 @@ def main():
         # Se a notícia for útil, adiciona à lista com os novos parâmetros
         if obrigatorias_encontradas and adicionais_encontradas:
             # Define o valor de 'relevancia' com base em 'cita_gov'
-            relevancia = True if cita_gov else None
+            relevancia = 'util' if cita_gov else None
 
             noticia_atualizada = {
                 **noticia,

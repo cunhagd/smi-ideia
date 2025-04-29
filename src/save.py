@@ -58,7 +58,6 @@ def check_link_in_db(connection, link):
         print(f"Erro ao verificar o link no banco de dados: {e}")
         raise
 
-# Função para salvar uma notícia no banco de dados
 def save_noticia(connection, noticia):
     try:
         cursor = connection.cursor()
@@ -66,15 +65,21 @@ def save_noticia(connection, noticia):
         # Extrai os dados da notícia
         url_original = noticia.get("url_original", "").strip()
         url = noticia.get("url", "").strip()
-        title = noticia.get("title", "").strip()
+        titulo = noticia.get("titulo", "").strip()
         data = noticia.get("data", "").strip()
         corpo = noticia.get("corpo", "").strip()
         autor = noticia.get("autor", "").strip()
         portal = noticia.get("portal", "").strip()
-        obrigatorias = noticia.get("obrigatorias", "").strip()
-        adicionais = noticia.get("adicionais", "").strip()
+        obrigatorias = noticia.get("obrigatorias", "").strip()  # Garante que seja uma string
+        adicionais = noticia.get("adicionais", "").strip()      # Garante que seja uma string
         cita_gov = noticia.get("cita_gov", False)
         relevancia = noticia.get("relevancia", None)
+
+        # Logs para depuração
+        print(f"Processando notícia: {url_original}")
+        print(f"Obrigatorias: {obrigatorias}")
+        print(f"Adicionais: {adicionais}")
+        print(f"Relevancia: {relevancia}")
 
         # Verifica se o portal está no dicionário de portais
         if portal in portais:
@@ -100,7 +105,7 @@ def save_noticia(connection, noticia):
         ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
         """
         values = (
-            url_original, url, title, data, corpo, autor, portal,
+            url_original, url, titulo, data, corpo, autor, portal,
             obrigatorias, adicionais, cita_gov, relevancia,
             abrangencia, pontos, ideiafixa
         )
@@ -113,7 +118,7 @@ def save_noticia(connection, noticia):
         return {
             "url": url,
             "url_original": url_original,
-            "title": title,
+            "titulo": titulo,
             "data": data,
             "corpo": corpo,
             "autor": autor,

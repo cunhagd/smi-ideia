@@ -1,72 +1,114 @@
 [
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=203730486",
-        "url_original": "http://www.correiobraziliense.com.br/politica/2025/04/7121438-lula-e-lewandowski-entregam-pec-da-seguranca-para-o-congresso.html",
-        "title": "Lula e Lewandowski entregam PEC da Segurança para o Congresso",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204056615",
+        "url_original": "https://www.otempo.com.br//cidades/2025/4/29/crianca-e-baleada-durante-tentativa-de-homicidio-em-bh",
+        "title": "Criança é baleada durante tentativa de homicídio em BH",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204056621",
+        "url_original": "https://www.otempo.com.br//tempo/2025/4/29/inmet-emite-alerta-laranja-de-chuvas-intensas-com-risco-de-alagamentos-em-rio-branco-e-regiao-ate-quarta-feira-30",
+        "title": "INMET emite alerta laranja de chuvas intensas com risco de alagamentos em Rio Branco e Região até quarta-feira (30) (Previsão do Tempo)",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204056623",
+        "url_original": "https://www.otempo.com.br//tempo/2025/4/29/inmet-emite-alerta-laranja-de-chuvas-intensas-com-risco-de-alagamentos-em-porto-velho-e-regiao-ate-quarta-feira-30",
+        "title": "INMET emite alerta laranja de chuvas intensas com risco de alagamentos em Porto Velho e Região até quarta-feira (30) (Previsão do Tempo)",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204056627",
+        "url_original": "https://www.otempo.com.br//tempo/2025/4/29/inmet-emite-alerta-amarelo-de-chuvas-intensas-com-risco-de-corte-de-energia-em-barro-alto-e-regiao-ate-quarta-feira-30",
+        "title": "INMET emite alerta amarelo de chuvas intensas com risco de corte de energia em Barro Alto e Região até quarta-feira (30) (Previsão do Tempo)",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204056636",
+        "url_original": "https://www.otempo.com.br//tempo/2025/4/29/inmet-emite-alerta-amarelo-de-chuvas-intensas-com-risco-de-corte-de-energia-em-sinop-e-regiao-ate-quarta-feira-30",
+        "title": "INMET emite alerta amarelo de chuvas intensas com risco de corte de energia em Sinop e Região até quarta-feira (30) (Previsão do Tempo)",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204056640",
+        "url_original": "https://www.otempo.com.br//tempo/2025/4/29/inmet-emite-alerta-amarelo-de-chuvas-intensas-com-risco-de-corte-de-energia-em-linhares-e-regiao-ate-quarta-feira-30",
+        "title": "INMET emite alerta amarelo de chuvas intensas com risco de corte de energia em Linhares e Região até quarta-feira (30) (Previsão do Tempo)",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204056647",
+        "url_original": "https://www.otempo.com.br//tempo/2025/4/29/inmet-emite-alerta-amarelo-de-chuvas-intensas-com-risco-de-corte-de-energia-em-teofilo-otoni-e-regiao-ate-quarta-feira-30",
+        "title": "INMET emite alerta amarelo de chuvas intensas com risco de corte de energia em Teófilo Otoni e Região até quarta-feira (30) (Previsão do Tempo)",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204056649",
+        "url_original": "https://www.otempo.com.br//tempo/2025/4/29/inmet-emite-alerta-amarelo-de-chuvas-intensas-com-risco-de-corte-de-energia-em-barreiras-e-regiao-ate-quarta-feira-30",
+        "title": "INMET emite alerta amarelo de chuvas intensas com risco de corte de energia em Barreiras e Região até quarta-feira (30) (Previsão do Tempo)",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204056651",
+        "url_original": "https://www.otempo.com.br//tempo/2025/4/29/inmet-emite-alerta-amarelo-de-chuvas-intensas-com-risco-de-corte-de-energia-em-eunapolis-e-regiao-ate-quarta-feira-30",
+        "title": "INMET emite alerta amarelo de chuvas intensas com risco de corte de energia em Eunápolis e Região até quarta-feira (30) (Previsão do Tempo)",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204033067",
+        "url_original": "http://www.correiobraziliense.com.br/economia/2025/04/7128621-segunda-edicao-do-cnu-ofertara-33-mil-vagas-para-35-orgaos-federais.html",
+        "title": "Segunda edição do CNU ofertará 3,3 mil vagas para 35 órgãos federais",
         "portal": "CORREIO BRAZILIENSE - ON LINE",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=203722262",
-        "url_original": "http://www.correiobraziliense.com.br/euestudante/concursos/2025/04/7121193-cnu-2025-tera-em-torno-de-3-mil-vagas-anuncia-esther-dweck.html",
-        "title": "CNU 2025 terá em torno de 3 mil vagas , anuncia Esther Dweck",
-        "portal": "CORREIO BRAZILIENSE - ON LINE",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204038271",
+        "url_original": "https://valor.globo.com/legislacao/noticia/2025/04/29/dia-2-de-maio-e-ponto-facultativo-saiba-em-qual-capital.ghtml",
+        "title": "Dia 2 de maio é ponto facultativo? Saiba em qual capital",
+        "portal": "VALOR ONLINE",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=203706347",
-        "url_original": "http://www.correiobraziliense.com.br/brasil/2025/04/7121164-padaria-de-suposta-torta-envenenada-e-interditada-em-belo-horizonte.html",
-        "title": "Padaria de suposta torta envenenada é interditada em Belo Horizonte",
-        "portal": "CORREIO BRAZILIENSE - ON LINE",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204038832",
+        "url_original": "https://valor.globo.com/publicacoes/especiais/mineracao/noticia/2025/04/29/fusoes-e-aquisicoes-no-setor-mineral-registram-maior-alta-em-20-anos.ghtml",
+        "title": "Fusões e aquisições no setor mineral registram maior alta em 20 anos",
+        "portal": "VALOR ONLINE",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=203665286",
-        "url_original": "https://www.estadao.com.br/politica/coluna-do-estadao/lula-ganha-porta-voz-em-mg-para-fazer-evento-com-evangelicos-e-adota-criterio-de-nao-vaia-entenda/",
-        "title": "Lula ganha porta-voz em MG para fazer evento com evangélicos e adota critério de 'não vaia'; entenda",
-        "portal": "ESTADÃO ONLINE - SP",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204038959",
+        "url_original": "https://valor.globo.com/publicacoes/especiais/mineracao/noticia/2025/04/29/mineradoras-reforcam-engajamento-com-a-sustentabilidade.ghtml",
+        "title": "Mineradoras reforçam engajamento com a sustentabilidade",
+        "portal": "VALOR ONLINE",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=203739164",
-        "url_original": "https://www1.folha.uol.com.br/blogs/e-logo-ali/2025/04/trilha-transmantiqueira-uma-caminhada-de-950-quilometros.shtml",
-        "title": "É Logo Ali (É Logo Ali)",
-        "portal": "FOLHA ONLINE - SP",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204039079",
+        "url_original": "https://valor.globo.com/publicacoes/especiais/mineracao/noticia/2025/04/29/de-eletrificacao-a-micro-ondas-industria-mineral-busca-inovacao.ghtml",
+        "title": "De eletrificação a micro-ondas, indústria mineral busca inovação",
+        "portal": "VALOR ONLINE",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=203723265",
-        "url_original": "https://www.araxaagora.com.br/noticia/vereadores-aprovam-tres-projetos-de-lei-e-apresentam-propostas-nas-areas-de-saude-infraestrutura-inclusao-e-cultura",
-        "title": "Vereadores aprovam três Projetos de Lei e apresentam propostas nas áreas de saúde, infraestrutura, inclusão e cultura",
-        "portal": "ARAXÁ AGORA - MG",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204054691",
+        "url_original": "https://www.raqueldecarvalho.com.br/expositores-da-feiraco-2025-sao-capacitados-para-o-evento-pela-aciapi-cdl-e-sebrae/",
+        "title": "Expositores da Feiraço 2025 são capacitados para o evento pela Aciapi-CDL e Sebrae",
+        "portal": "BLOG RAQUEL DE CARVALHO - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=203721518",
-        "url_original": "https://esginside.com.br/2025/04/23/governo-de-minas-avanca-com-o-programa-rota-da-descarbonizacao/",
-        "title": "Governo de Minas avança com o programa Rota da Descarbonização",
-        "portal": "ESG INSIDE - SP",
-        "bloco": "Web"
-    },
-    {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=203722307",
-        "url_original": "https://g1.globo.com/mg/grande-minas/noticia/2025/04/23/superintendencia-regional-da-cemig-e-inaugurada-em-montes-claros.ghtml?utm_source=whatsapp&utm_medium=canais&utm_campaign=g1-grande-minas",
-        "title": "Superintendência regional da Cemig é inaugurada em Montes Claros",
-        "portal": "G1 - GRANDE MINAS - MG",
-        "bloco": "Web"
-    },
-    {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=203694384",
-        "url_original": "https://www.publishnews.com.br/materias/2025/04/23/flipocos-chega-a-20-edicao-como-um-dos-principais-festivais-literarios-do-brasil",
-        "title": "Flipoços chega à 20ª edição como um dos principais festivais literários do Brasil",
-        "portal": "PUBLISH NEWS - SP",
-        "bloco": "Web"
-    },
-    {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=203720906",
-        "url_original": "https://www.tjmg.jus.br/../portal-tjmg/noticias/tjmg-realiza-audiencia-para-regularizar-indenizacao-de-terreno-em-contagem.htm",
-        "title": "TJMG realiza audiência para regularizar indenização de terreno em Contagem",
-        "portal": "TRIBUNAL DE JUSTIÇA DE MINAS GERAIS - TJMG",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204048349",
+        "url_original": "https://jornalgeraes.com.br/governo-de-minas-discute-saneamento-no-novo-acordo-de-mariana/",
+        "title": "Governo de Minas discute saneamento no Novo Acordo de Mariana",
+        "portal": "JORNAL GERAES ONLINE",
         "bloco": "Web"
     }
 ]
