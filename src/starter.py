@@ -1,5 +1,8 @@
 import os
 import json
+import sys
+# Adiciona o diretório raiz do projeto ao sys.path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from urllib.parse import urljoin
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service

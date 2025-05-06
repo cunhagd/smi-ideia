@@ -1,5 +1,8 @@
 import os
 import json
+import sys
+# Adiciona o diretório raiz do projeto ao sys.path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from config.keywords import palavras_obrigatorias, palavras_adicionais
 
 # Configurações iniciais

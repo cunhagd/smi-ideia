@@ -1,6 +1,9 @@
 import os
 import json
 import psycopg2
+import sys
+# Adiciona o diretório raiz do projeto ao sys.path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from config.dic import portais  # Importa o dicionário de portais
 
 # Configurações iniciais

@@ -1,6 +1,9 @@
 import os
 import json
 import psycopg2
+import sys
+# Adiciona o diretório raiz do projeto ao sys.path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # Configurações iniciais
 DATA_DIR = os.path.join(os.getcwd(), "data")

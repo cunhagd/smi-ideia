@@ -1,8 +1,11 @@
 import os
-from src import starter, originals, duplicate, scrap, filter, save  # Importa os módulos da pasta src
+import sys
+# Adiciona o diretório raiz do projeto ao sys.path
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from src import starter, originals, duplicate, scrap, filter, name, save  # Importa os módulos da pasta src
 
 # Configurações iniciais
-MODULES = [starter, originals, duplicate, scrap, filter, save]  # Lista de módulos importados
+MODULES = [starter, originals, duplicate, scrap, filter, name, save]  # Lista de módulos importados
 
 def run_module(module):
     """
