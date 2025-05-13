@@ -1,470 +1,1178 @@
 [
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204456782",
-        "title": "Mais de 200 bairros da Grande BH podem ficar sem água hoje; veja quais",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204931782",
+        "title": "Corpo de jovem morto é deixado em hospital e suspeitos desaparecem na Grande BH",
         "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204456782",
-        "title": "O TEMPO ONLINE - BELO HORIZONTE - MG06/05/2025 08:08:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204931782",
+        "title": "O TEMPO ONLINE - BELO HORIZONTE - MG13/05/2025 18:54:00",
         "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204431428",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204928915",
+        "title": "Falta de remédios na Farmácia de Minas atinge 48 itens: 'Trabalhar e comprar', lamenta usuário",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204928915",
+        "title": "O TEMPO ONLINE - BELO HORIZONTE - MG13/05/2025 18:13:00",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204926865",
+        "title": "Com direito a chuveiro, buffet e quarto privativo, BH recebe primeira sala VIP rodoviária do Brasil",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204926865",
+        "title": "O TEMPO ONLINE - BELO HORIZONTE - MG13/05/2025 17:59:00",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204922259",
+        "title": "Kalil alfineta Cleitinho após CPI das Bets: 'depois dessa, sou candidato a governador de Minas'",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204922259",
+        "title": "O TEMPO ONLINE - BELO HORIZONTE - MG13/05/2025 17:03:00",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204922239",
+        "title": "Veto de Zema à remoção de servidoras vítimas de violência irá a plenário com parecer pela manutenção",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204922239",
+        "title": "O TEMPO ONLINE - BELO HORIZONTE - MG13/05/2025 17:00:00",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204919939",
+        "title": "UFMG desenvolve novo teste para Covid-19 com custo estimado de R$ 1",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204919939",
+        "title": "O TEMPO ONLINE - BELO HORIZONTE - MG13/05/2025 16:46:00",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204918883",
+        "title": "Guerra entre PCC e CV motivou morte de detento em presídio da Zona da Mata",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204918883",
+        "title": "O TEMPO ONLINE - BELO HORIZONTE - MG13/05/2025 16:28:00",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204890412",
+        "title": "Ex-secretário de Zema passa a responder por nova função no BDMG",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204890412",
+        "title": "O TEMPO ONLINE - BELO HORIZONTE - MG13/05/2025 10:27:00",
+        "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204872318",
         "title": "Paulo Navarro (PAULO NAVARRO)",
         "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204431428",
-        "title": "O TEMPO ONLINE - BELO HORIZONTE - MG06/05/2025 03:00:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204872318",
+        "title": "O TEMPO ONLINE - BELO HORIZONTE - MG13/05/2025 03:00:00",
         "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204432978",
-        "title": "Força e Gestão (PAULO NAVARRO)",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204873640",
+        "title": "Beleza no luxo (PAULO NAVARRO)",
         "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204432978",
-        "title": "O TEMPO ONLINE - BELO HORIZONTE - MG06/05/2025 03:00:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204873640",
+        "title": "O TEMPO ONLINE - BELO HORIZONTE - MG13/05/2025",
         "portal": "O TEMPO ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204460428",
-        "title": "Zema diz que Propag é a 'solução' para Minas Gerais",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204935630",
+        "title": "Duchas, buffet e quartos: rodoviária de BH vai ter sala VIP",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204460428",
-        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG06/05/2025 12:48:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204935630",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 19:54:00",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204452411",
-        "title": "Suspeito de matar motorista de aplicativo é encontrado e confessa crime",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204934548",
+        "title": "MG: dois são condenados por matar detento em guerra de facções no presídio",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204452411",
-        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG06/05/2025 11:22:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204934548",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 19:37:00",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204452413",
-        "title": "Na despedida da AMM, Bizarro critica governo Lula: 'Está morrendo afogado'",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204934556",
+        "title": "Ambiguidade em projetos de adesão ao Propag gera dúvidas e desconfianças",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204452413",
-        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG06/05/2025 11:22:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204934556",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 19:37:00",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204447907",
-        "title": "Crescimento de casos de VSR e influenza A acende alerta no país",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204932155",
+        "title": "Condenação por ameaças é comemorado por deputadas vítimas dos ataques",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204447907",
-        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG06/05/2025 10:30:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204932155",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 19:03:00",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204444484",
-        "title": "Manutenção deixa mais de 200 bairros da Grande BH sem água; veja lista",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204930875",
+        "title": "UFMG desenvolve novo teste diagnóstico para Covid-19; entenda",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204444484",
-        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG06/05/2025 09:56:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204930875",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 18:46:00",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204436428",
-        "title": "Criança é encontrada sozinha e assustada em ônibus e mãe não é localizada",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204928085",
+        "title": "Atingidos pela tragédia de Brumadinho protestam contra fim de auxílio",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204436428",
-        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG06/05/2025 08:14:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204928085",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 18:11:00",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204433186",
-        "title": "BH: Hospital Risoleta Neves tenta equacionar superlotação e estagnação",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204926687",
+        "title": "Governo lamenta morte de ex-presidente do Uruguai Pepe Mujica",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204433186",
-        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG06/05/2025 07:08:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204926687",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 17:54:00",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204432690",
-        "title": "Influenciador é preso na Grande BH por maus-tratos a cães",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204925170",
+        "title": "Está com o IPVA atrasado? Parcelamento já está disponível em MG",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204432690",
-        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG06/05/2025 06:50:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204925170",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 17:37:00",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204431623",
-        "title": "ONU faz alerta sobre desaceleração no desenvolvimento humano",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204923468",
+        "title": "Kalil ironiza Cleitinho na CPI: 'depois dessa, sou candidato a governador'",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204431623",
-        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG06/05/2025 06:16:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204923468",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 17:20:00",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204429312",
-        "title": "Alta pressão crônica",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204921903",
+        "title": "Mariana: reunião com atingidos decide destinação de lotes remanescentes",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204429312",
-        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG06/05/2025 04:16:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204921903",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 17:03:00",
         "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204431393",
-        "title": "Programa Fé Nelas leva microempresárias à Semana S no Expominas",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204911448",
+        "title": "Justiça aposenta juiz acusado de furtar imagem sacra em Tiradentes",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204911448",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 15:02:00",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204904368",
+        "title": "Viúva de paciente que teve bisturi esquecido no corpo será indenizada",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204904368",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 13:37:00",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204898464",
+        "title": "Leninha lança candidatura à presidência do PT de Minas",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204898464",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 12:29:00",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204897030",
+        "title": "Justiça nega pedido do PT contra Zema: 'Não vão nos calar'",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204897030",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 12:11:00",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204894230",
+        "title": "Criança de 12 anos é chamada de 'macaco' em escola de Uberaba",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204894230",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 11:37:00",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204891077",
+        "title": "Batalhão para grandes eventos como clássicos de futebol é inaugurado em MG",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204891077",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 11:03:00",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204889611",
+        "title": "MG ganha batalhão da PM para grandes eventos como clássicos de futebol",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204889611",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 10:46:00",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204889613",
+        "title": "Perseguição termina com membros da 'Gangue da marcha à ré' baleados em BH",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204889613",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 10:46:00",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204874046",
+        "title": "Quatro suspeitos invadem casa e matam homem a tiros na Grande BH",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204874046",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 07:05:00",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204872616",
+        "title": "Incêndio atinge apartamento no bairro Castelo, em BH",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204872616",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 06:14:00",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204870043",
+        "title": "Me Mostra inicia hoje a primeira edição em 2025",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204870043",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 03:59:00",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204870037",
+        "title": "'Brasileiros ainda não têm a cultura de incluir a ortopedia em seus cuidado",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204870037",
+        "title": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG13/05/2025 03:58:00",
+        "portal": "ESTADO DE MINAS ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204933432",
+        "title": "Propag: Zema diz que servidores de estatais mineiras não serão afetados com federalização",
         "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204431393",
-        "title": "DIÁRIO DO COMÉRCIO ONLINE - MG06/05/2025 05:28:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204933432",
+        "title": "DIÁRIO DO COMÉRCIO ONLINE - MG13/05/2025 19:27:00",
         "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204431353",
-        "title": "Minas Gerais tem 14 barragens com obras de descaracterização",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204930804",
+        "title": "Governo de Minas lança edital para leilão virtual de 19 imóveis do Estado; veja os locais",
         "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204431353",
-        "title": "DIÁRIO DO COMÉRCIO ONLINE - MG06/05/2025 05:15:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204930804",
+        "title": "DIÁRIO DO COMÉRCIO ONLINE - MG13/05/2025 18:19:00",
         "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204431305",
-        "title": "OAB cria comissão Especial de Gestores em RPPS para apoiar municípios",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204930815",
+        "title": "Como informar ao INSS sobre desconto indevido no benefício; confira o passo a passo",
         "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204431305",
-        "title": "DIÁRIO DO COMÉRCIO ONLINE - MG06/05/2025 05:12:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204930815",
+        "title": "DIÁRIO DO COMÉRCIO ONLINE - MG13/05/2025 18:11:00",
         "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204431316",
-        "title": "BDMG lança crédito especial para micro e pequenas empresas",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204930822",
+        "title": "Comércio de Belo Horizonte não registra grandes prejuízos com apagão",
         "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204431316",
-        "title": "DIÁRIO DO COMÉRCIO ONLINE - MG06/05/2025 05:01:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204930822",
+        "title": "DIÁRIO DO COMÉRCIO ONLINE - MG13/05/2025 17:47:00",
         "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204461747",
-        "title": "Após críticas, Zema diz que adesão ao Propag é 'solução' e promete enviar projeto à ALMG nesta 4ª",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204918656",
+        "title": "Mineiros já podem parcelar IPVA 2025 vencido; saiba como",
+        "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204918656",
+        "title": "DIÁRIO DO COMÉRCIO ONLINE - MG13/05/2025 16:22:00",
+        "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204918686",
+        "title": "Justiça nega pedido do PT para retirar das redes vídeo de Zema sobre fraude do INSS",
+        "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204918686",
+        "title": "DIÁRIO DO COMÉRCIO ONLINE - MG13/05/2025 15:41:00",
+        "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204907388",
+        "title": "Cemig investirá R$ 360 milhões em manutenção preventiva em 2025",
+        "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204907388",
+        "title": "DIÁRIO DO COMÉRCIO ONLINE - MG13/05/2025 14:10:00",
+        "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204872168",
+        "title": "Nascem os primeiros bezerros geneticamente editados do Brasil",
+        "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204872168",
+        "title": "DIÁRIO DO COMÉRCIO ONLINE - MG13/05/2025 05:13:00",
+        "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204872681",
+        "title": "Australiana St. George quer acelerar projeto de terras-raras em Araxá",
+        "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204872681",
+        "title": "DIÁRIO DO COMÉRCIO ONLINE - MG13/05/2025 05:10:00",
+        "portal": "DIÁRIO DO COMÉRCIO ONLINE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204936066",
+        "title": "Homem sem CNH que atropelou e matou mãe e filho em Santa Luzia tem prisão preventiva decretada",
         "portal": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204461747",
-        "title": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG06/05/2025 12:50:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204936066",
+        "title": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG13/05/2025 19:19:00",
         "portal": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204461752",
-        "title": "BDMG reduz taxas de financiamento para micro e pequenas empresas de Minas",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204934369",
+        "title": "Rodoviária de BH terá sala VIP com direito a ducha, buffet e até quarto privativo",
         "portal": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204461752",
-        "title": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG06/05/2025 12:47:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204934369",
+        "title": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG13/05/2025 19:04:00",
         "portal": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204447129",
-        "title": "Sem vacina, BH interrompe vacinação contra a dengue",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204930362",
+        "title": "Suspeito de matar desafeto a porretadas em bar na Grande BH é preso; ciúmes da ex motivou crime",
         "portal": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204447129",
-        "title": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG06/05/2025 10:04:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204930362",
+        "title": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG13/05/2025 18:12:00",
         "portal": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204437809",
-        "title": "Bairros de BH, Lagoa Santa, Vespasiano e São José da Lapa ficam sem água nesta terça",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204932342",
+        "title": "Kalil ironiza Cleitinho após vídeo com Virgínia Fonseca: 'depois dessa, sou candidato a governador'",
         "portal": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204437809",
-        "title": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG06/05/2025 08:18:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204932342",
+        "title": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG13/05/2025 18:02:00",
         "portal": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204434528",
-        "title": "Sucesso de público e crítica em 2023, ópera \"Matraga\", de Rufo Herrera, volta ao Palácio das Artes",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204934371",
+        "title": "Parceria entre prefeitura de Contagem e Faculdades Kennedy incentiva alimentação saudável",
         "portal": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204434528",
-        "title": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG06/05/2025 07:30:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204934371",
+        "title": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG13/05/2025 17:25:00",
         "portal": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204452770",
-        "title": "Influencer com 1 milhão de seguidores é preso por maus-tratos a cães",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204917415",
+        "title": "Atingidos pelo rompimento da barragem em Brumadinho protestam contra a Vale na porta do TJ",
+        "portal": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204917415",
+        "title": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG13/05/2025 15:15:00",
+        "portal": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204891584",
+        "title": "Prazo para inscrições no prêmio Riquezas dos Vales é prorrogado até 30 de junho em Minas",
+        "portal": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204891584",
+        "title": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG13/05/2025 10:49:00",
+        "portal": "HOJE EM DIA ONLINE - BELO HORIZONTE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204909382",
+        "title": "Brasil mira liderança no processamento de minerais estratégicos",
         "portal": "CORREIO BRAZILIENSE - ON LINE",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204452770",
-        "title": "CORREIO BRAZILIENSE - ON LINE06/05/2025 11:23:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204909382",
+        "title": "CORREIO BRAZILIENSE - ON LINE13/05/2025 14:29:00",
         "portal": "CORREIO BRAZILIENSE - ON LINE",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204456735",
-        "title": "Câmara encontrará equilíbrio necessário em isenção de IR para até R$ 5 mil, diz Motta",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204870106",
+        "title": "Eduardo Leite critica polarização política: Que projeto a gente tem de país?",
+        "portal": "CORREIO BRAZILIENSE - ON LINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204870106",
+        "title": "CORREIO BRAZILIENSE - ON LINE13/05/2025 03:55:00",
+        "portal": "CORREIO BRAZILIENSE - ON LINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204894761",
+        "title": "Homem que ameaçou deputadas de estupro corretivo é condenado a 12 anos e nove meses de prisão",
         "portal": "O GLOBO ONLINE - RJ",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204456735",
-        "title": "O GLOBO ONLINE - RJ06/05/2025 11:54:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204894761",
+        "title": "O GLOBO ONLINE - RJ13/05/2025 10:45:00",
         "portal": "O GLOBO ONLINE - RJ",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204430651",
-        "title": "TCU abrirá concurso com 60 vagas para níveis médio e superior",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204878003",
+        "title": "Summit Brazil-USA reúne líderes e CEOs em Nova York",
         "portal": "O GLOBO ONLINE - RJ",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204430651",
-        "title": "O GLOBO ONLINE - RJ06/05/2025 04:00:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204878003",
+        "title": "O GLOBO ONLINE - RJ13/05/2025 08:00:00",
         "portal": "O GLOBO ONLINE - RJ",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204429426",
-        "title": "Governadores de direita que miram presidência ensaiam união para pressionar Bolsonaro por decisão",
-        "portal": "O GLOBO ONLINE - RJ",
-        "bloco": "Web"
-    },
-    {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204429426",
-        "title": "O GLOBO ONLINE - RJ06/05/2025 03:30:00",
-        "portal": "O GLOBO ONLINE - RJ",
-        "bloco": "Web"
-    },
-    {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204455537",
-        "title": "Opinião | Por mais mulheres decidindo o orçamento público",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204921959",
+        "title": "Homem é condenado a 12 anos e nove meses de prisão por ameaçar deputadas de morte e estupro",
         "portal": "ESTADÃO ONLINE - SP",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204455537",
-        "title": "ESTADÃO ONLINE - SP06/05/2025 11:10:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204921959",
+        "title": "ESTADÃO ONLINE - SP13/05/2025 16:04:00",
         "portal": "ESTADÃO ONLINE - SP",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204457364",
-        "title": "Grupo Legendários invade área protegida no interior de MG, e moradores relatam transtornos",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204883701",
+        "title": "Brecha no Orçamento permite 'desvio' de R$ 19,9 bilhões em emendas para 4 mil cidades",
+        "portal": "ESTADÃO ONLINE - SP",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204883701",
+        "title": "ESTADÃO ONLINE - SP13/05/2025 09:30:00",
+        "portal": "ESTADÃO ONLINE - SP",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204895744",
+        "title": "Relator de sistema nacional de educação na Câmara promete apresentar parecer em 120 dias",
         "portal": "FOLHA ONLINE - SP",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204457364",
-        "title": "FOLHA ONLINE - SP06/05/2025 12:00:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204895744",
+        "title": "FOLHA ONLINE - SP13/05/2025 12:00:00",
         "portal": "FOLHA ONLINE - SP",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204462381",
-        "title": "Abertura do 40º Congresso Mineiro de Municípios da AMM reúne mais de cinco mil pessoas em torno de rico debate da pauta municipalista",
-        "portal": "ASSOCIAÇÃO MINEIRA DE MUNICÍPIOS",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204912821",
+        "title": "Codemge vai conceder Thermas (COLUNA MINAS GERAIS)",
+        "portal": "A FOLHA REGIONAL ONLINE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204462381",
-        "title": "ASSOCIAÇÃO MINEIRA DE MUNICÍPIOS06/05/2025 13:19:00",
-        "portal": "ASSOCIAÇÃO MINEIRA DE MUNICÍPIOS",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204912821",
+        "title": "A FOLHA REGIONAL ONLINE - MG13/05/2025 11:04:00",
+        "portal": "A FOLHA REGIONAL ONLINE - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204448429",
-        "title": "Terceirizado da Cemig desaparece em MG após instalar fiação em rio; buscas entram no 4º dia",
-        "portal": "BHAZ",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204883175",
+        "title": "Governo de Minas prorroga inscrições para o prêmio Riquezas dos Vales",
+        "portal": "A NOTÍCIA DIGITAL - PONTA GROSSA - PR",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204448429",
-        "title": "BHAZ06/05/2025 14:32:00",
-        "portal": "BHAZ",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204883175",
+        "title": "A NOTÍCIA DIGITAL - PONTA GROSSA - PR13/05/2025 09:12:00",
+        "portal": "A NOTÍCIA DIGITAL - PONTA GROSSA - PR",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204459756",
-        "title": "Barragem da Vale, em Ouro Preto, com nível 3 de risco, deve ser desmontada só em 2035",
-        "portal": "BHAZ",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204913019",
+        "title": "Codemge vai conceder Thermas (COLUNA MG)",
+        "portal": "ANDRADAS HOJE ONLINE- ANDRADAS- MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204459756",
-        "title": "BHAZ06/05/2025 10:51:00",
-        "portal": "BHAZ",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204913019",
+        "title": "ANDRADAS HOJE ONLINE- ANDRADAS- MG13/05/2025 12:01:00",
+        "portal": "ANDRADAS HOJE ONLINE- ANDRADAS- MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204454346",
-        "title": "Aciapi, CDL de Ipatinga e Sebrae entregam kits para expositores da Feiraço 2025",
-        "portal": "CDL IPATINGA",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204871004",
+        "title": "Governo de Minas se reúne com instituições de Justiça para tratar da adesão ao Propag",
+        "portal": "BLOG A POLÍTICA E O PODER",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204454346",
-        "title": "CDL IPATINGA06/05/2025 11:44:00",
-        "portal": "CDL IPATINGA",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204871004",
+        "title": "BLOG A POLÍTICA E O PODER13/05/2025 05:02:00",
+        "portal": "BLOG A POLÍTICA E O PODER",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204458365",
-        "title": "90ª ExpoZebu já tem seus Grandes Campeões e Campeãs",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204915895",
+        "title": "Codemge e BDMG organizam 1º Encontro das áreas de compras das Estatais Mineiras",
+        "portal": "CODEMGE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204915895",
+        "title": "CODEMGE13/05/2025 15:54:00",
+        "portal": "CODEMGE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204889307",
+        "title": "UFV cria curativo biodegradável (Coluna MG)",
+        "portal": "CORREIO DE UBERLÂNDIA - ON LINE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204889307",
+        "title": "CORREIO DE UBERLÂNDIA - ON LINE - MG13/05/2025 10:35:00",
+        "portal": "CORREIO DE UBERLÂNDIA - ON LINE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204917259",
+        "title": "Polícia conclui que morte de bebê de um ano que se afogou em caixa d água ocorreu por fatalidade",
+        "portal": "G1 - GRANDE MINAS - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204917259",
+        "title": "G1 - GRANDE MINAS - MG13/05/2025 14:27:00",
+        "portal": "G1 - GRANDE MINAS - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204917264",
+        "title": "Padre de Montes Claros é condenado pela Justiça por importunação sexual",
+        "portal": "G1 - GRANDE MINAS - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204917264",
+        "title": "G1 - GRANDE MINAS - MG13/05/2025 13:55:00",
+        "portal": "G1 - GRANDE MINAS - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204934116",
+        "title": "Homens são condenados por enforcar detento e simular suicídio em presídio de Juiz de Fora; crime foi motivado por guerra entre facções",
         "portal": "G1 - MINAS GERAIS - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204458365",
-        "title": "G1 - MINAS GERAIS - MG06/05/2025 12:00:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204934116",
+        "title": "G1 - MINAS GERAIS - MG13/05/2025 19:02:00",
         "portal": "G1 - MINAS GERAIS - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204450219",
-        "title": "Zebu na Escola proporciona imersão no universo da 90ª ExpoZebu",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204927911",
+        "title": "Justiça decreta prisão preventiva de motorista responsável por matar mãe e filho atropelados",
         "portal": "G1 - MINAS GERAIS - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204450219",
-        "title": "G1 - MINAS GERAIS - MG06/05/2025 10:40:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204927911",
+        "title": "G1 - MINAS GERAIS - MG13/05/2025 17:37:00",
         "portal": "G1 - MINAS GERAIS - MG",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204461674",
-        "title": "Projeto propõe substituir sirenes escolares por músicas",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204922327",
+        "title": "Divinópolis decreta Emergência em Saúde por alta de casos de síndrome respiratória aguda grave",
+        "portal": "G1 - MINAS GERAIS - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204922327",
+        "title": "G1 - MINAS GERAIS - MG13/05/2025 16:38:00",
+        "portal": "G1 - MINAS GERAIS - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204910165",
+        "title": "Justiça autoriza funcionamento de cemitério, mas pede melhorias para evitar contaminação em Guaxupé, MG",
+        "portal": "G1 - MINAS GERAIS - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204910165",
+        "title": "G1 - MINAS GERAIS - MG13/05/2025 14:16:00",
+        "portal": "G1 - MINAS GERAIS - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204905540",
+        "title": "Entrega das obras na MG-167, entre Varginha e Três Pontas, é adiada pela terceira vez",
+        "portal": "G1 - MINAS GERAIS - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204905540",
+        "title": "G1 - MINAS GERAIS - MG13/05/2025 13:24:00",
+        "portal": "G1 - MINAS GERAIS - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204886157",
+        "title": "Frio em MG: massa de ar frio mantém temperaturas baixas em todas as regiões mineiras",
+        "portal": "G1 - MINAS GERAIS - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204886157",
+        "title": "G1 - MINAS GERAIS - MG13/05/2025 10:04:00",
+        "portal": "G1 - MINAS GERAIS - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204871551",
+        "title": "Profissional vira ré em MG por tentar matar namorado com veneno de rato no jantar",
+        "portal": "G1 - MINAS GERAIS - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204871551",
+        "title": "G1 - MINAS GERAIS - MG13/05/2025 05:01:00",
+        "portal": "G1 - MINAS GERAIS - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204890094",
+        "title": "UFV cria curativo biodegradável",
+        "portal": "JORNAL CLASSIVALE ONLINE- IPATINGA - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204890094",
+        "title": "JORNAL CLASSIVALE ONLINE- IPATINGA - MG13/05/2025 10:35:00",
+        "portal": "JORNAL CLASSIVALE ONLINE- IPATINGA - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204937012",
+        "title": "Cemig é uma das dez companhias mais sustentáveis da B3",
         "portal": "JORNAL PANORAMA ONLINE",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204461674",
-        "title": "JORNAL PANORAMA ONLINE06/05/2025 13:06:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204937012",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 20:17:00",
         "portal": "JORNAL PANORAMA ONLINE",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204451766",
-        "title": "Itamonte busca avanços em encontro com o vice-governador de Minas Gerais",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204937017",
+        "title": "Com R$ 50 bilhões investidos em compras públicas neste ano, Minas sedia oficina que vai redesenhar contratações no país",
         "portal": "JORNAL PANORAMA ONLINE",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204451766",
-        "title": "JORNAL PANORAMA ONLINE06/05/2025 11:15:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204937017",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 20:17:00",
         "portal": "JORNAL PANORAMA ONLINE",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204441928",
-        "title": "Folia do Trabalhador reúne milhares de pessoas e movimenta Piumhi com música, cultura e gastronomia",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204937028",
+        "title": "Governo de Minas inaugura novo batalhão especializado para reforçar segurança em grandes eventos",
         "portal": "JORNAL PANORAMA ONLINE",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204441928",
-        "title": "JORNAL PANORAMA ONLINE06/05/2025 09:27:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204937028",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 20:17:00",
         "portal": "JORNAL PANORAMA ONLINE",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204447373",
-        "title": "Projetos do governo Zema para adesão ao Propag chegarão à ALMG nesta quarta-feira (7)",
-        "portal": "O FATOR",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204936361",
+        "title": "Secretaria de Planejamento compartilha experiências de gestão pública no Conseplan",
+        "portal": "JORNAL PANORAMA ONLINE",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204447373",
-        "title": "O FATOR06/05/2025 10:24:00",
-        "portal": "O FATOR",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204936361",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 20:07:00",
+        "portal": "JORNAL PANORAMA ONLINE",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204448712",
-        "title": "TIM e Tophen lançam programa com desconto na conta de luz de pessoa física",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204935206",
+        "title": "Brasil e China fazem declarações conjuntas sobre temas globais",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204935206",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 19:49:00",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204935224",
+        "title": "Pirapora é destaque em Seminário Internacional de Atenção Especializada com projetos inovadores em saúde",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204935224",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 19:49:00",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204935255",
+        "title": "Revalidação do reconhecimento dos Arturos como patrimônio marca compromisso de Minas com a cultura negra",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204935255",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 19:49:00",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204935271",
+        "title": "Profissionais da Saúde de São Gotardo participam do II Congresso Brasileiro de Defesa da Vacinação na UFMG",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204935271",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 19:49:00",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204929182",
+        "title": "Secretaria de Fazenda de Minas Gerais abre parcelamento do IPVA 2025 vencido",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204929182",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 18:26:00",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204929185",
+        "title": "Governo de Minas lança edital de leilão virtual de imóveis pertencentes ao Estado",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204929185",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 18:26:00",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204924168",
+        "title": "Prefeito de Pedralva se reúne com representantes da Copasa para alinhar parcerias com o município",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204924168",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 17:28:00",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204916264",
+        "title": "Polo UAB de Andrelândia celebra formatura da primeira turma de Educação Física da Unimontes",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204916264",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 15:58:00",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204908998",
+        "title": "Ingaí adere ao Movimento Maio Amarelo: mês de segurança e prevenção aos acidentes de trânsito",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204908998",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 14:33:00",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204908957",
+        "title": "Prefeitura conclui primeira etapa do calçamento das casas populares",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204908957",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 14:32:00",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204904255",
+        "title": "Governador de Minas compartilha experiências de liderança e empreendedorismo com jovens em Belo Horizonte",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204904255",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 13:37:00",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204901779",
+        "title": "Prefeitura de Carvalhópolis promove reunião para tratar de melhorias em loteamentos do município",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204901779",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 13:08:00",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204889817",
+        "title": "Nova etapa do Programa Miguilim atende 55 crianças com consultas oftalmológicas em Machado",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204889817",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 10:50:00",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204884906",
+        "title": "Minas Gerais registra mais de 41 mil novas empresas nos quatro primeiros meses de 2025",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204884906",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 09:54:00",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204882238",
+        "title": "Minas Gerais firma acordo de R$ 100 milhões com multinacional para instalação de fábrica de asfalto sustentável no Vale do Aço",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204882238",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 09:26:00",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204878027",
+        "title": "Minas bate recorde na compra de produtos da agricultura familiar para a alimentação escolar",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204878027",
+        "title": "JORNAL PANORAMA ONLINE13/05/2025 08:30:00",
+        "portal": "JORNAL PANORAMA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204901296",
+        "title": "Teste diagnóstico para covid-19 desenvolvido na UFMG é licenciado para empresa brasileira",
+        "portal": "NOTÍCIAS DE CONTAGEM - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204901296",
+        "title": "NOTÍCIAS DE CONTAGEM - MG13/05/2025 13:02:00",
+        "portal": "NOTÍCIAS DE CONTAGEM - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204888879",
+        "title": "Dengue continua em alta no Brasil: apesar de queda nos registros, mortes são preocupantes em SP, PR e MG",
+        "portal": "O CONTORNO DE BH",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204888879",
+        "title": "O CONTORNO DE BH13/05/2025 10:39:00",
+        "portal": "O CONTORNO DE BH",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204889451",
+        "title": "UFV cria curativo biodegradável (Minas Gerais)",
+        "portal": "RCWTV - REDE DE CANAIS WEB TV",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204889451",
+        "title": "RCWTV - REDE DE CANAIS WEB TV13/05/2025 10:46:00",
+        "portal": "RCWTV - REDE DE CANAIS WEB TV",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204885964",
+        "title": "Estudo destaca Cemitério do Bonfim como referência de arte e história",
+        "portal": "REVISTA ENCONTRO ONLINE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204885964",
+        "title": "REVISTA ENCONTRO ONLINE - MG13/05/2025 09:54:00",
+        "portal": "REVISTA ENCONTRO ONLINE - MG",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204924955",
+        "title": "Homem é condenado a mais de 12 anos de prisão por ameaçar deputadas de morte e estupro",
         "portal": "REVISTA ISTO É DINHEIRO ONLINE",
         "bloco": "Web"
     },
     {
-        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204448712",
-        "title": "REVISTA ISTO É DINHEIRO ONLINE06/05/2025 10:20:00",
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204924955",
+        "title": "REVISTA ISTO É DINHEIRO ONLINE13/05/2025 17:11:00",
         "portal": "REVISTA ISTO É DINHEIRO ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204930158",
+        "title": "Justiça nega pedido do PT para Zema apagar posts sobre fraude no INSS",
+        "portal": "REVISTA VEJA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204930158",
+        "title": "REVISTA VEJA ONLINE13/05/2025 18:16:00",
+        "portal": "REVISTA VEJA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204927910",
+        "title": "Segurança não é mais problema estadual, mas federal, diz governador do Rio",
+        "portal": "REVISTA VEJA ONLINE",
+        "bloco": "Web"
+    },
+    {
+        "url": "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/noticia.asp?cd_noticia=204927910",
+        "title": "REVISTA VEJA ONLINE13/05/2025 18:12:00",
+        "portal": "REVISTA VEJA ONLINE",
         "bloco": "Web"
     }
 ]

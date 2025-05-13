@@ -31,15 +31,29 @@ def connect_to_db():
         print(f"Erro ao conectar ao banco de dados: {e}")
         raise
 
-# Função para verificar se um link já existe no banco de dados
+# Função para verificar se um link já existe no banco de dados e em qual tabela
 def check_link_in_db(connection, link):
     try:
         cursor = connection.cursor()
-        query = "SELECT EXISTS(SELECT 1 FROM noticias WHERE link = %s)"
-        cursor.execute(query, (link,))
-        exists = cursor.fetchone()[0]
+        tabelas = []
+        
+        # Verifica na tabela noticias
+        query_noticias = "SELECT EXISTS(SELECT 1 FROM noticias WHERE link = %s)"
+        cursor.execute(query_noticias, (link,))
+        if cursor.fetchone()[0]:
+            tabelas.append("noticias")
+        
+        # Verifica na tabela lixeira
+        query_lixeira = "SELECT EXISTS(SELECT 1 FROM lixeira WHERE link = %s)"
+        cursor.execute(query_lixeira, (link,))
+        if cursor.fetchone()[0]:
+            tabelas.append("lixeira")
+        
         cursor.close()
-        return exists
+        
+        # Retorna a lista de tabelas onde o link foi encontrado (vazia se não encontrado)
+        return tabelas
+        
     except Exception as e:
         print(f"Erro ao verificar o link no banco de dados: {e}")
         raise
@@ -60,12 +74,16 @@ def main():
             url_original = noticia.get("url_original")
 
             if url_original:
-                # Verifica se o link já existe no banco de dados
-                if not check_link_in_db(connection, url_original):
-                    # Se o link não existe, adiciona a notícia à lista de novas notícias
+                # Verifica em quais tabelas o link já existe
+                tabelas_com_link = check_link_in_db(connection, url_original)
+                
+                if not tabelas_com_link:
+                    # Se o link não existe em nenhuma tabela, adiciona a notícia à lista de novas notícias
                     noticias_novas.append(noticia)
                 else:
-                    print(f"Link já existe no banco de dados: {url_original}")
+                    # Informa em quais tabelas o link foi encontrado
+                    tabelas_str = ", ".join(tabelas_com_link)
+                    print(f"Link já existe nas tabelas: {tabelas_str} - {url_original}")
             else:
                 print("Notícia ignorada por não ter url_original.")
 
