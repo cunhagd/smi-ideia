@@ -10,8 +10,8 @@ from config.dic import portais  # Importa o dicionário de portais
 DATA_DIR = os.path.join(os.getcwd(), "data")
 DB_URL = "postgresql://postgres:HomctJkRyZIGzYhrlmFRdKHZPJJmWylh@metro.proxy.rlwy.net:30848/railway"
 
-# Função para carregar o arquivo scrap.json
-def load_scrap_json(filename="scrap.json"):
+# Função para carregar o arquivo name.json
+def load_name_json(filename="name.json"):
     filepath = os.path.join(DATA_DIR, filename)
     with open(filepath, "r", encoding="utf-8") as file:
         return json.load(file)
@@ -143,8 +143,8 @@ def save_noticia(connection, noticia):
 
 # Função principal
 def main():
-    # Carrega os dados do arquivo scrap.json
-    noticias_data = load_scrap_json()
+    # Carrega os dados do arquivo name.json
+    noticias_data = load_name_json()
 
     # Conecta ao banco de dados
     connection = connect_to_db()
