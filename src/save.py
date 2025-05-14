@@ -2,9 +2,9 @@ import os
 import json
 import psycopg2
 import sys
+
 # Adiciona o diretório raiz do projeto ao sys.path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from config.dic import portais  # Importa o dicionário de portais
 
 # Configurações iniciais
 DATA_DIR = os.path.join(os.getcwd(), "data")
@@ -61,6 +61,25 @@ def check_link_in_db(connection, link):
         print(f"Erro ao verificar o link no banco de dados: {e}")
         raise
 
+# Função para buscar informações do portal no banco de dados
+def get_portal_info(connection, portal):
+    try:
+        cursor = connection.cursor()
+        query = "SELECT nome, abrangencia, pontos FROM portais WHERE nome = %s"
+        cursor.execute(query, (portal,))
+        result = cursor.fetchone()
+        cursor.close()
+        if result:
+            return {
+                "nome": result[0],
+                "abrangencia": result[1] or "Desconhecida",
+                "pontos": result[2] if result[2] is not None else 0
+            }
+        return None
+    except Exception as e:
+        print(f"Erro ao buscar informações do portal {portal}: {e}")
+        raise
+
 def save_noticia(connection, noticia):
     try:
         cursor = connection.cursor()
@@ -84,16 +103,15 @@ def save_noticia(connection, noticia):
         print(f"Adicionais: {adicionais}")
         print(f"Relevancia: {relevancia}")
 
-        # Verifica se o portal está no dicionário de portais
-        if portal in portais:
-            abrangencia = portais[portal].get("abrangencia", "Desconhecida")
-            pontos = portais[portal].get("pontos", 0)  # Substitui valores inválidos por 0
-            if pontos == "":
-                pontos = 0
+        # Verifica se o portal existe na tabela portais
+        portal_info = get_portal_info(connection, portal)
+        if portal_info:
+            abrangencia = portal_info["abrangencia"]
+            pontos = portal_info["pontos"]
         else:
-            # Se o portal não está no dicionário, salva a notícia no arquivo portais_erro.json
+            # Se o portal não está na tabela, salva a notícia no arquivo portais_erro.json
             save_to_json([noticia], "portais_erro.json")
-            print(f"Portal '{portal}' não encontrado no dicionário. Notícia ignorada e salva em portais_erro.json.")
+            print(f"Portal '{portal}' não encontrado na tabela portais. Notícia ignorada e salva em portais_erro.json.")
             return None
 
         # Define o valor True para a coluna 'ideiafixa'
