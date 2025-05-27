@@ -2,12 +2,12 @@ name: SMI - IDEIA FIXA
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Executa a cada 60 minutos (no início de cada hora)
-  workflow_dispatch:  # Permite execução manual do workflow
+    - cron: '0 * * * *'  # Executa a cada 60 minutos
+  workflow_dispatch:  # Permite execução manual
 
 jobs:
   run-script:
-    runs-on: ubuntu-latest  # Usa o ambiente Ubuntu mais recente
+    runs-on: ubuntu-latest
 
     steps:
       # Faz checkout do repositório
@@ -18,7 +18,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'  # Use a versão do Python compatível com seu projeto
+          python-version: '3.12'
 
       # Instala dependências do requirements.txt
       - name: Install Python dependencies
@@ -26,24 +26,61 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Instala o Google Chrome
+      # Instala o Google Chrome (versão mais recente)
       - name: Install Google Chrome
         run: |
           wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
           echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
           sudo apt-get update
           sudo apt-get install -y google-chrome-stable
+          google-chrome --version
 
-      # Baixa e configura o chromedriver
+      # Baixa e configura o chromedriver (versão mais recente compatível)
       - name: Install ChromeDriver
         run: |
           CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+')
-          CHROMEDRIVER_VERSION=$(curl -sS https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION)
+          CHROMEDRIVER_VERSION=$(curl -sS https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION || curl -sS https://chromedriver.storage.googleapis.com/LATEST_RELEASE)
+          if [ -z "$CHROMEDRIVER_VERSION" ]; then
+            echo "Erro: Não foi possível determinar a versão do ChromeDriver."
+            exit 1
+          fi
+          echo "Baixando ChromeDriver versão $CHROMEDRIVER_VERSION"
           wget -q https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_VERSION/chromedriver_linux64.zip
+          if [ ! -f chromedriver_linux64.zip ]; then
+            echo "Erro: Falha ao baixar chromedriver_linux64.zip."
+            exit 1
+          fi
           unzip chromedriver_linux64.zip -d /usr/local/bin/
           chmod +x /usr/local/bin/chromedriver
           rm chromedriver_linux64.zip
+          chromedriver --version
 
-      # Executa o script principal
-      - name: Run main.py
-        run: python main.py
+      # Cria o diretório data
+      - name: Create data directory
+        run: mkdir -p data
+
+      # Executa os scripts
+      - name: Run starter.py
+        run: python src/starter.py
+
+      - name: Run originals.py
+        run: python src/originals.py
+
+      - name: Run scrap.py
+        run: python src/scrap.py
+
+      # Faz upload dos arquivos JSON gerados
+      - name: Upload artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraped-data
+          path: data/*.json
+
+      # Faz upload de screenshots de depuração (em caso de erro)
+      - name: Upload debug screenshots
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-screenshots
+          path: "*.png"
