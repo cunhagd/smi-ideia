@@ -4,12 +4,14 @@ import sys
 # Adiciona o diretório raiz do projeto ao sys.path
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from urllib.parse import urljoin
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium import webdriver
+
 
 # Configurações iniciais
 BASE_URL = "https://c.ideiafixa.com.br/governodoestadomg/site/ideia/#"
@@ -18,10 +20,11 @@ CONFIG_DIR = os.path.join(os.getcwd(), "config")
 
 # Função para configurar o driver do Selenium
 def setup_driver():
-    chrome_driver_path = os.path.join(CONFIG_DIR, "chromedriver.exe")
-    service = Service(chrome_driver_path)
-    options = webdriver.ChromeOptions()
-    options.add_argument("--start-maximized")  # Maximiza a janela do navegador
+    options = Options()
+    options.add_argument("--headless")  # Executar em modo headless (sem interface gráfica)
+    options.add_argument("--no-sandbox")  # Necessário para ambientes como Railway
+    options.add_argument("--disable-dev-shm-usage")  # Evita problemas de memória em contêineres
+    service = Service("/app/config/chromedriver")  # Caminho para o chromedriver
     driver = webdriver.Chrome(service=service, options=options)
     return driver
 

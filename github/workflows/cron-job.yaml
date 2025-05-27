@@ -1,0 +1,51 @@
+```yaml
+name: Run Python Script with Selenium
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Executa a cada 60 minutos (no início de cada hora)
+  workflow_dispatch:  # Permite execução manual do workflow
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest  # Usa o ambiente Ubuntu mais recente
+
+    steps:
+      # Faz checkout do repositório
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Configura o Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'  # Use a versão do Python compatível com seu projeto
+
+      # Instala dependências do requirements.txt
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Instala o Google Chrome
+      - name: Install Google Chrome
+        run: |
+          wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+          echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" | sudo tee /etc/apt/sources.list.d/google-chrome.list
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+      # Baixa e configura o chromedriver
+      - name: Install ChromeDriver
+        run: |
+          CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+')
+          CHROMEDRIVER_VERSION=$(curl -sS https://chromedriver.storage.googleapis.com/LATEST_RELEASE_$CHROME_VERSION)
+          wget -q https://chromedriver.storage.googleapis.com/$CHROMEDRIVER_VERSION/chromedriver_linux64.zip
+          unzip chromedriver_linux64.zip -d /usr/local/bin/
+          chmod +x /usr/local/bin/chromedriver
+          rm chromedriver_linux64.zip
+
+      # Executa o script principal
+      - name: Run main.py
+        run: python main.py
+```

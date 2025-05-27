@@ -7,3 +7,6 @@ debug.png
 
 *.log
 *.tmp
+
+chromedriver
+chromedriver_linux64.zip
