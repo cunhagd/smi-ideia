@@ -1,0 +1,10 @@
+{
+  "$schema": "https://railway.app/railway.schema.json",
+  "deploy": {
+    "startCommand": "pip install -r requirements.txt && python main.py",
+    "cron": {
+      "schedule": "0 * * * *",
+      "command": "pip install -r requirements.txt && python main.py"
+    }
+  }
+}
