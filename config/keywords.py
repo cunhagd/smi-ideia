@@ -77,5 +77,9 @@ palavras_adicionais = [
     "Governo de Minas",
     "Governo de Minas Gerais",
     "Governo do Estado de Minas Gerais",
-    "Governador"
+    "Governador",
+    "Serviço Social Autônomo",
+    "Servas",
+    "Christiana Noronha Renault de Almeida",
+    "Christiana Renault"
 ]
