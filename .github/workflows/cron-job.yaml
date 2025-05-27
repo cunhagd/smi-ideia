@@ -1,5 +1,4 @@
-```yaml
-name: Run Python Script with Selenium
+name: SMI - IDEIA FIXA
 
 on:
   schedule:
@@ -48,4 +47,3 @@ jobs:
       # Executa o script principal
       - name: Run main.py
         run: python main.py
-```
